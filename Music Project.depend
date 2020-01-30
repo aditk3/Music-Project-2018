@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1530294239 source:d:\adit kapoor\documents\codeblocks\class 12\music project\main.cpp
+	<iostream>
+	<windows.h>
+	<MMsystem.h>
+	<time.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1530268532 source:c:\users\jai kapoor\desktop\music project\main.cpp
+	<iostream>
+	<windows.h>
+	<MMsystem.h>
+	<time.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1531450762 source:c:\users\class2\desktop\music project\main.cpp
+	<iostream>
+	<windows.h>
+	<MMsystem.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1534506629 source:c:\users\catch\desktop\music project\main.cpp
+	<iostream>
+	<windows.h>
+	<MMsystem.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
